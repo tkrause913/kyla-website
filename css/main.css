@@ -1,0 +1,110 @@
+html{
+  overflow-x: hidden !important;
+}
+
+.boardperson{
+  width: 200px;
+  height: 215px;
+}
+
+.container-fluid{
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.jumbotron{
+  color:white;
+  background-color: transparent;
+  background: transparent;
+  border-color: transparent;
+}
+
+.jumbotron > h1 {
+  color: white !important;
+}
+
+.title{
+  font-size: 36pt !important;
+}
+
+.our-vision{
+  background-color: #EDEDEF;
+  height: 50vh;
+}
+
+.we-help{
+  background-color: #EDEDEF;
+  height: 55vh;
+}
+.background{
+  position: absolute;
+  width: 100vw !important;
+  height: 600px !important;
+  opacity: .85;
+  z-index: -5;
+}
+.donatebackground{
+  position: absolute;
+  width: 100vw !important;
+  z-index: -5;
+  opacity: .65;
+}
+
+.footerbackground{
+  position: absolute;
+  width: 100vw !important;
+  z-index: -5;
+  height: 450px;
+}
+
+.join-section{
+  margin-top: 300px !important;
+}
+.our-friends-background{
+  background-color: #f2f2f2;
+}
+.our-friends{
+  width: 250px;
+  height: 250px;
+}
+.logo{
+  height: 75px;
+  width: 75px;
+  border-radius: 25px;
+}
+.learn-more{
+  padding: 100px 20px 20px 100px;
+}
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+
+}
+
+.navbar li { color: #000 }
+
+.title{
+  color: white;
+}
+
+*[role="form"] {
+    max-width: 875px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 0.3em;
+}
+
+*[role="form"] h2 {
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+
+.form-section{
+  margin-right: 100px !important;
+}
+
+.jumbotron text-left{
+  color:black;
+}
